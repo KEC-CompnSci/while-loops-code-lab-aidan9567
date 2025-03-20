@@ -8,7 +8,7 @@ Replace this with your actual assignment content.
 # Task 1: Count by twos and print all even numbers from 2 to 50 (inclusive)
 # Write your code for Task 1 below:
 # TODO: Write a while loop that counts by 2s from 2 to 50 and prints each number
-count = 0
+count = 2
 while count <= 50:
     print(count)
     count += 2
